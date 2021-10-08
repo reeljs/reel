@@ -9,7 +9,7 @@
   <a aria-label="NPM version" href="https://www.npmjs.com/package/reeljs">
     <img alt="" src="https://img.shields.io/npm/v/reeljs?color=0&style=for-the-badge">
   </a>
-  <a aria-label="License" href="https://github.com/reeljs/blazor/LICENSE.md">
+  <a aria-label="License" href="https://github.com/reeljs/reel/LICENSE.md">
     <img alt="" src="https://img.shields.io/github/license/reeljs/blazor?style=for-the-badge">
   </a>
 
